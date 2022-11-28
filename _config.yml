@@ -2,6 +2,7 @@ theme: minima
 title: Lisa Demske, Technical Writer
 header_pages:
   - about.md
+  - writing-samples.md
   - resume.md
 minima:
   social_links:
