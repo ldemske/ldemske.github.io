@@ -6,4 +6,4 @@ header_pages:
   - resume.md
 minima:
   social_links:
-    - { platform: "linkedin",  user_url: "https://linkedin.com/in/lisademske/" }
+    - { platform: "linkedin", user_url: "https://linkedin.com/in/lisademske/" }
