@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resume
+---
+
 ### Lisa Demske  
 www.lisademske.com | www.linkedin.com/in/lisademske
 
