@@ -32,7 +32,7 @@ EXECUTIVE ASSISTANT | AMWAY | JULY 2011 – JULY 2019
 
 #### Technical Writing Skills  
 
-UX Writing | DITA XML CCMS | GitHub | Software Documentation | Online Help | Atlassian JIRA
+UX Writing | DITA XML CCMS | GitHub | Software Documentation | Online Help | Atlassian JIRA  
 Jekyll | HTML | Markdown | Instructional Design | Structured Authoring | Version Control 
 
 #### Recent Accomplishments  
