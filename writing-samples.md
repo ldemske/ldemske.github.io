@@ -3,6 +3,6 @@ layout: page
 title: Writing Samples
 ---
 
-I created these writing samples "on the job" in response to my colleagues' need for documentation that addressed their specific use of our accounting software:  
+Please see my online portfolio of UX writing samples I created for a variety of end users with attention to clarity and detail:
 
-[Modern Bread & Bagel](https://www.modernbreadandbagel.com/)
+[Writing Samples](https://lisademske.com/writing-samples)
