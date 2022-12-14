@@ -3,6 +3,6 @@ layout: page
 title: Writing Samples
 ---
 
-Please see my online portfolio of UX writing samples I created for a variety of end users with attention to clarity and detail:
+Please see my portfolio of UX writing samples I created for a variety of end users:
 
-[Writing Samples](https://lisademske.com/writing-samples)
+[Lisa Demske | Technical Writer](https://lisademske.com/)
