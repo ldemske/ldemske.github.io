@@ -4,7 +4,7 @@ title: Resume
 ---
 
 ### Lisa Demske  
-www.lisademske.com | www.linkedin.com/in/lisademske
+[My Portfolio](www.lisademske.com) | [LinkedIn](www.linkedin.com/in/lisademske)
 
 #### Profile  
 
