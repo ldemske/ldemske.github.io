@@ -12,8 +12,9 @@ Technical communicator experienced with software documentation publishing in an 
 
 #### Experience  
 
-INFORMATION DEVELOPER, INFOR HR TALENT | INFOR | AUGUST 2019 - OCTOBER 2022  
-
+**Information Developer  
+Infor  
+August 2019 - October 2022**  
 ·	Created and published user-centered software documentation and online help  
 ·	Created and published documentation for monthly customer updates  
 ·	Tested documentation in the user interface for accuracy and specificity  
@@ -23,8 +24,9 @@ INFORMATION DEVELOPER, INFOR HR TALENT | INFOR | AUGUST 2019 - OCTOBER 2022
 ·	Collaborated with developers and product managers to create new and revise older documentation  
 ·	Assisted customers with documentation issues and created or edited content to better fit their needs
 
-EXECUTIVE ASSISTANT | AMWAY | JULY 2011 – JULY 2019  
-
+**Executive Assistant  
+Amway  
+July 2011 – July 2019**  
 ·	Created and tested documentation for human resources and legal software as an early adopter  
 ·	Edited promotional brochures, memos, and speeches given to foreign dignitaries for the Vice President of Government Affairs  
 ·	Drafted letters, memos, and invitations to executives and consultants, delivering timely information with accuracy and precision  
