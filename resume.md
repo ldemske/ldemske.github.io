@@ -4,7 +4,7 @@ title: Resume
 ---
 
 ### Lisa Demske  
-[GitHub](https://ldemske.github.io/) | [LinkedIn](www.linkedin.com/in/lisademske) | [Portfolio](www.lisademske.com) 
+[Email](mailto:lisademske@yahoo.com) | [GitHub](https://ldemske.github.io/) | [LinkedIn](www.linkedin.com/in/lisademske) | [Portfolio](www.lisademske.com) 
 
 #### Profile  
 
