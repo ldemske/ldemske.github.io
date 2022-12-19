@@ -39,8 +39,8 @@ July 2011 – July 2019**
 
 #### Technical Writing Skills  
 
-UX Writing | DITA XML CCMS | GitHub | Software Documentation | Online Help | Atlassian JIRA  
-Jekyll | HTML | Markdown | Instructional Design | Structured Authoring | Version Control 
+UX Writing ```|``` DITA XML CCMS ```|``` GitHub ```|``` Software Documentation ```|``` Online Help ```|``` Atlassian JIRA  
+Jekyll ```|``` HTML ```|``` Markdown ```|``` Instructional Design ```|``` Structured Authoring ```|``` Version Control 
 
 #### Recent Accomplishments  
 
