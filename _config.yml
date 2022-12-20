@@ -4,6 +4,5 @@ header_pages:
   - about.md
   - writing-samples.md
   - resume.md
-minima:
-  social_links:
-    - { "platform": "linkedin", "user_url": "https://linkedin.com/in/lisademske/" }
+
+linkedin_username: lisademske
