@@ -18,7 +18,7 @@ For this task, you will need an image saved in PNG or JPG format, as well as acc
     
 10.	On the **Images & Video** tab, select **Upload** and upload your image. If this community allows multiple images, a plus sign (+) icon will appear next to the thumbnail of your image after you upload it. Optionally, click this icon to upload additional images. You can upload and post up to 20.  
 
-    Note: If you upload multiple images to post, you need to paste the links you copied from Imgur into the **Add a link...** fields that are diplayed for each image.       Optionally, add a caption for each in the **Add a caption...** field. You can only add captions when multiple images are uploaded.  
+    Note: If you upload multiple images, you must paste the links that you copied from Imgur into the **Add a link...** fields that are diplayed for each image.       Optionally, add a caption for each in the **Add a caption...** field. You can only add captions when multiple images are uploaded.  
     
 11.	If you are posting only a single image, paste the link you copied from Imgur into the **Url** field on the **Link** tab. 
 12.	In the **Title** field, specify a title for your post. 
