@@ -21,7 +21,7 @@ For this task, you will need an image saved in PNG or JPG format, as well as acc
     
 11. If you are posting only a single image, paste the link you copied from Imgur into the **Url** field on the **Link** tab. 
 12. In the **Title** field, specify a title for your post
-13. Click **Flair** and select a category that best suits your post. Flair is usually optional, but some communities require it.
+13. Click **Flair** and select a category that best describes your post. Flair is usually optional, but some communities require it.
 14. Click **Post**.
 15. Refresh the screen to see your post and add the text of your post as a comment in the **What are your thoughts?** window.
 16. Click **Comment**.
