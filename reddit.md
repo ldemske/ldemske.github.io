@@ -21,7 +21,7 @@ For this task, you will need an image saved in PNG or JPG format, as well as a [
 
 9. In the **Choose a community** field, select the community to which you want to post. You can also post to a community you have not joined by navigating to that community before completing Step 8.
     
-10. On the **Images & Video** tab, select **Upload** and upload your image. If you want to post only one image, proceed to Step 11. A plus sign (+) icon will appear next to the thumbnail of the image after you upload it. Click this icon to upload additional images. You must paste the links that you copied from Imgur into the **Add a link...** fields that are diplayed for each image.  
+10. On the **Images & Video** tab, select **Upload** and upload your image. If you want to post only one image, proceed to Step 11. A plus sign (+) icon will appear next to the thumbnail of the image after you upload it. Click this icon to upload additional images. You must paste the links that you copied from [Imgur](https://imgur.com/) into the **Add a link...** fields that are diplayed for each image.  
     
 11. If you are posting only a single image, paste the link you copied from Imgur into the **Url** field on the **Link** tab.  
 
