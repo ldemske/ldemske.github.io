@@ -19,11 +19,11 @@ For this task, you will need an image saved in PNG or JPG format, as well as a [
 
 8. Click the **Create Media Post** icon in the **Create Post** screen.  
 
-9. In the **Choose a community** field, select the community to which you want to post. You can also post to a community you have not joined by navigating to that community before completing Step 8.
+9. In the **Choose a community** field, select the community to which you want to post. You can also post to a community that you have not joined by navigating to that community before completing Step 8.
     
-10. On the **Images & Video** tab, select **Upload** and upload your image. If you want to post only one image, proceed to Step 11. A plus sign (+) icon will appear next to the thumbnail of the image after you upload it. Click this icon to upload additional images. You will then need to paste the links that you copied from [Imgur](https://imgur.com/) into the **Add a link...** fields that are diplayed for each image.  
+10. On the **Images & Video** tab, select **Upload** and upload your image. If you want to post only one image, then proceed to Step 11. A plus sign (+) icon will appear next to the thumbnail of the image after you upload it. Click this icon to upload additional images. You will then need to paste the links that you copied from [Imgur](https://imgur.com/) into the **Add a link...** fields that are diplayed for each image.  
     
-11. If you are posting only a single image, paste the link you copied from [Imgur](https://imgur.com/) into the **Url** field on the **Link** tab.  
+11. If you are posting only a single image, then paste the link that you copied from [Imgur](https://imgur.com/) into the **Url** field on the **Link** tab.  
 
 12. On the **Link** tab, specify a title for your post in the **Title** field.  
 
