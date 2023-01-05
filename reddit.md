@@ -9,9 +9,9 @@ For this task, you will need an image saved in PNG or JPG format, as well as a [
   
 3. Click **Add Images**.  
 
-4. Click **Browse** to find your image. Double click the image to upload it.  
+4. Click **Browse** to find your image. Double click your image to upload it.  
 
-5. Click the thumbnail of your image that is now on your [Imgur](https://imgur.com/) screen.  
+5. Click the image thumbnail that is now on your [Imgur](https://imgur.com/) screen.  
  
 6. Under **Direct Link**, click **Copy**.  
 
