@@ -11,7 +11,7 @@ For this task, you will need an image saved in PNG or JPG format, as well as a [
 
 4. Click **Browse** to find your image. Double click the image to upload it.  
 
-5. Click the thumbnail of your image that is now on your Imgur screen.  
+5. Click the thumbnail of your image that is now on your [Imgur](https://imgur.com/) screen.  
  
 6. Under **Direct Link**, click **Copy**.  
 
