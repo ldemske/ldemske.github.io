@@ -23,7 +23,7 @@ For this task, you will need an image saved in PNG or JPG format, as well as a [
     
 10. On the **Images & Video** tab, select **Upload** and upload your image. If you want to post only one image, proceed to Step 11. A plus sign (+) icon will appear next to the thumbnail of the image after you upload it. Click this icon to upload additional images. You must paste the links that you copied from [Imgur](https://imgur.com/) into the **Add a link...** fields that are diplayed for each image.  
     
-11. If you are posting only a single image, paste the link you copied from Imgur into the **Url** field on the **Link** tab.  
+11. If you are posting only a single image, paste the link you copied from [Imgur](https://imgur.com/) into the **Url** field on the **Link** tab.  
 
 12. On the **Link** tab, specify a title for your post in the **Title** field.  
 
