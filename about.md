@@ -9,7 +9,7 @@ I'm a technical writer living in The Last City of the East, also known as St. Pa
 &nbsp;  
 ## The Big Five  
 
-These are my five sacred rules of technical writing:  
+Here are my five sacred rules of technical writing:  
 
 1.	Know your audience.
 2.	Know your subject.
