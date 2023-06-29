@@ -12,6 +12,16 @@ Technical communicator experienced with software documentation publishing in an 
 
 #### Experience  
 
+**Technical Writer**  
+**The Toro Company (Contract)**  
+**March 2023 - June 2023**  
+·	Created service manuals for residential and commercial lawn mowers with PTC Arbortext Editor  
+·	Interviewed service technicians to create accurate and helpful procedural documentation  
+·	Collaborated with SMEs to ensure document compliance with legal and technical writing standards  
+·	Created line drawings of mechanical components using Adobe Acrobat and Adobe Illustrator  
+·	Edited and enhanced electrical schematics for publication with Adobe Illustrator  
+·	Edited images to supplement instructional documentation with Adobe Photoshop
+
 **Information Developer  
 Infor  
 August 2019 - October 2022**  
