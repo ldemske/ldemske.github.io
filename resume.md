@@ -12,6 +12,15 @@ Technical communicator experienced with software documentation publishing in an 
 
 #### Experience  
 
+**Technical Writer III**  
+**Thermo King/Trane Technologies (Contract)**  
+**July 2023 - Present**  
+·	Created service manuals for HVAC unit maintenance with PTC Arbortext Editor and Windchill 
+·	Interviewed service technicians to create accurate and helpful procedural documentation  
+·	Collaborated with SMEs to ensure technical accuracy of documentation 
+·	Edited and enhanced engineering prints for publication with Adobe Illustrator  
+·	Edited images to supplement instructional documentation with Adobe Photoshop
+
 **Technical Writer**  
 **The Toro Company (Contract)**  
 **March 2023 - June 2023**  
@@ -33,13 +42,6 @@ August 2019 - October 2022**
 ·	Assisted team members with technical issues and product questions  
 ·	Collaborated with developers and product managers to create new and revise older documentation  
 ·	Assisted customers with documentation issues and created or edited content to better fit their needs
-
-**Executive Assistant  
-Amway  
-July 2011 – July 2019**  
-·	Created and tested documentation for human resources and legal software as an early adopter  
-·	Edited promotional brochures, memos, and speeches given to foreign dignitaries for the Vice President of Government Affairs  
-·	Drafted letters, memos, and invitations to executives and consultants, delivering timely information with accuracy and precision  
 
 #### Education  
 
