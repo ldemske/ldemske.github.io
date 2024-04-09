@@ -15,11 +15,12 @@ Technical communicator experienced with software documentation publishing in an 
 **Technical Writer III**  
 **Thermo King/Trane Technologies (Contract)**  
 **July 2023 - Present**  
-·	Created service manuals for HVAC unit maintenance with PTC Arbortext Editor and Windchill 
-·	Interviewed service technicians to create accurate and helpful procedural documentation  
-·	Collaborated with SMEs to ensure technical accuracy of documentation 
-·	Edited and enhanced engineering prints for publication with Adobe Illustrator  
-·	Edited images to supplement instructional documentation with Adobe Photoshop
+· Create new technical content and instructive materials for Certified Pre-Owned Program  
+·	Create service manuals for HVAC unit maintenance with PTC Arbortext Editor and Windchill  
+·	Interview service technicians to create accurate and helpful procedural documentation  
+·	Consult with SMEs to ensure technical accuracy of documentation  
+· Edit images to supplement technical documentation with Adobe Photoshop  
+· Edit and enhanced engineering prints for publication wih Adobe Illustrator  
 
 **Technical Writer**  
 **The Toro Company (Contract)**  
@@ -30,7 +31,7 @@ Technical communicator experienced with software documentation publishing in an 
 ·	Created line drawings of mechanical components using Adobe Acrobat and Adobe Illustrator  
 ·	Edited and enhanced electrical schematics for publication with Adobe Illustrator  
 ·	Edited images to supplement instructional documentation with Adobe Photoshop
-
+  
 **Information Developer  
 Infor  
 August 2019 - October 2022**  
