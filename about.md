@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a technical writer living in The Last City of the East, also known as St. Paul, Minnesota. I create documentation that helps people do their jobs easily.  
+I'm a Twin Cities technical writer with a knack for creating user-centric documentation.  
   
     
 &nbsp;  
