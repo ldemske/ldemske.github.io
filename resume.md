@@ -14,13 +14,14 @@ Technical communicator experienced with software documentation publishing in an 
 
 **Technical Writer III**  
 **Thermo King/Trane Technologies (Contract)**  
-**July 2023 - Present**  
-· Create new technical content and instructive materials for Certified Pre-Owned Program  
-·	Create service manuals for HVAC unit maintenance with PTC Arbortext Editor and Windchill  
-·	Interview service technicians to create accurate and helpful procedural documentation  
-·	Consult with SMEs to ensure technical accuracy of documentation  
-· Edit images to supplement technical documentation with Adobe Photoshop  
-· Edit and enhanced engineering prints for publication wih Adobe Illustrator  
+**July 2023 - January 2025**  
+· Created new technical content and instructive materials for Certified Pre-Owned Program  
+· Created installation, diagnostic, and operator's manuals for trailer telematics system
+·	Created service manuals for HVAC unit maintenance with PTC Arbortext Editor and Windchill  
+·	Interviewed service technicians to create accurate and helpful procedural documentation  
+·	Consulted with SMEs to ensure technical accuracy of documentation  
+· Edited images to supplement technical documentation with Adobe Photoshop  
+· Edited and enhanced engineering prints for publication wih Adobe Illustrator  
 
 **Technical Writer**  
 **The Toro Company (Contract)**  
@@ -52,13 +53,9 @@ August 2019 - October 2022**
 
 #### Technical Writing Skills  
 
-UX Writing ```|``` DITA CCMS ```|``` GitHub ```|``` Software Documentation ```|``` Online Help   
-Atlassian JIRA ``|`` Jekyll ```|``` HTML ``|`` Markdown ```|``` Instructional Design   
-Structured Authoring ```|``` Version Control ``|`` Usability Testing ``|`` XML  
+UX Writing```|```DITA CCMS```|```PTC Arbortext```|```PTC Windchill```|```Software Documentation```  
+Atlassian JIRA```|```Jekyll```|```HTML```|```Markdown```|```Instructional Design```|```Creo View
+Structured Authoring```|```Version Control```|```Usability Testing```|```XML```|```Online Help
 
-#### Recent Accomplishments  
-
-·	Created entire AI application user guide from scratch in DITA Component Content Management System  
-·	Lead release documentation and publishing process for information development team
  
 
