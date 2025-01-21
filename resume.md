@@ -53,8 +53,9 @@ August 2019 - October 2022**
 
 #### Technical Writing Skills  
 
-UX Writing```|```DITA CCMS```|```PTC Arbortext```|```PTC Windchill```|```Software & HVAC Documentation```|```Atlassian JIRA
-Jekyll```|```XML```|```Markdown```|```Instructional Design```|```Creo View```|```Online Help```|```Usability Testing
+UX Writing | DITA CCMS | PTC Arbortext | PTC Windchill | Software & HVAC Documentation     
+Atlassian JIRA | Jekyll | XML | Markdown | Creo View | Online Help | Usability Testing
+
 
 
  
