@@ -16,7 +16,7 @@ Technical communicator experienced with software documentation publishing in an 
 **Thermo King/Trane Technologies (Contract)**  
 **July 2023 - January 2025**  
 · Created new technical content and instructive materials for Certified Pre-Owned Program  
-· Created installation, diagnostic, and operator's manuals for trailer telematics system
+· Created installation, diagnostic, and operator's manuals for trailer telematics system  
 ·	Created service manuals for HVAC unit maintenance with PTC Arbortext Editor and Windchill  
 ·	Interviewed service technicians to create accurate and helpful procedural documentation  
 ·	Consulted with SMEs to ensure technical accuracy of documentation  
@@ -53,9 +53,9 @@ August 2019 - October 2022**
 
 #### Technical Writing Skills  
 
-UX Writing```|```DITA CCMS```|```PTC Arbortext```|```PTC Windchill```|```Software Documentation```  
-Atlassian JIRA```|```Jekyll```|```HTML```|```Markdown```|```Instructional Design```|```Creo View
-Structured Authoring```|```Version Control```|```Usability Testing```|```XML```|```Online Help
+UX Writing```|```DITA CCMS```|```PTC Arbortext```|```PTC Windchill```|```Software & HVAC Documentation```|```Atlassian JIRA
+Jekyll```|```XML```|```Markdown```|```Instructional Design```|```Creo View```|```Online Help```|```Usability Testing
+
 
  
 
