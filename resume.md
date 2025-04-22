@@ -8,7 +8,7 @@ title: Resume
 
 #### Profile  
 
-Technical communicator experienced with software documentation publishing in an Agile environment. Extensive writing background and ability to distill complex information for ease of comprehension. 
+Technical communicator experienced with mechanical and software documentation publishing in an Agile environment. Extensive writing background and ability to distill complex information for ease of comprehension. 
 
 #### Experience  
 
