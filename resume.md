@@ -19,7 +19,7 @@ Extensive writing background and ability to distill complex information for ease
 - Developed installation, diagnostic, operator’s and maintenance manuals using PTC Arbortext Editor
 - Published manuals to company intranet using PTC Arbortext Editor and PTC Windchill 
 - Led meetings with SMEs to discuss content inclusion, presentation, and organization
-- Collaborated on cross-functional teams to create new HVAC procedural documentation and verify its accuracy
+- Collaborated on cross-functional teams to create new HVAC procedural documentation
 - Analyzed BOMs (Bill of Materials) to ensure accuracy of bus and trailer documentation
 - Enhanced images for publication using Adobe Photoshop, Adobe Illustrator, and Creo View MCAD
 - Edited wiring schematics for publication using Adobe Acrobat and Adobe Illustrator
