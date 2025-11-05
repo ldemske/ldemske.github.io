@@ -9,7 +9,7 @@ Hello and welcome to my little technical writing site. Below is a summary of my 
 &nbsp;  
 ## My Approach to Technical Writing  
 
-These are my five foolproof rules for good technical writing:  
+These are my five guideposts of good technical writing:  
 
 1.	Know your audience.
 2.	Know your subject.
